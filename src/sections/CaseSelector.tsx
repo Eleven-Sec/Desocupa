@@ -25,7 +25,7 @@ const CaseSelector = () => {
       title: 'Urgencia (Exprés)',
       description: 'Necesitas actuar hoy. Intervención inmediata 24/7.',
       cta: 'Activar equipo',
-      href: 'https://wa.me/34618762122',
+      href: 'https://wa.me/34608294503',
       external: true,
       gradient: 'from-cyan/25 to-cyan/10',
     },

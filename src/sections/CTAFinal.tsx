@@ -41,7 +41,7 @@ const CTAFinal = () => {
             asChild
           >
             <a
-              href="https://wa.me/34618762122"
+              href="https://wa.me/34608294503"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -55,7 +55,7 @@ const CTAFinal = () => {
             className="border-2 border-cyan/60 text-cyan hover:bg-cyan/10 hover:border-cyan text-base font-bold px-12 py-8 rounded-xl backdrop-blur-sm transition-all hover:-translate-y-1"
             asChild
           >
-            <a href="tel:+34618762122">
+            <a href="tel:+34608294503">
               <Phone className="w-6 h-6 mr-3" />
               Llamar ahora
             </a>

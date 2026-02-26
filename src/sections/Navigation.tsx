@@ -26,8 +26,8 @@ const Navigation = () => {
   return (
     <nav
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
-          ? 'bg-black/95 backdrop-blur-md border-b border-dark-border'
-          : 'bg-transparent'
+        ? 'bg-black/95 backdrop-blur-md border-b border-dark-border'
+        : 'bg-transparent'
         }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -60,7 +60,7 @@ const Navigation = () => {
               className="border-cyan text-cyan hover:bg-cyan/10"
               asChild
             >
-              <a href="tel:+34618762122">
+              <a href="tel:+34608294503">
                 <Phone className="w-4 h-4 mr-2" />
                 Llamar
               </a>
@@ -71,7 +71,7 @@ const Navigation = () => {
               asChild
             >
               <a
-                href="https://wa.me/34618762122"
+                href="https://wa.me/34608294503"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -115,7 +115,7 @@ const Navigation = () => {
                 className="w-full border-cyan text-cyan hover:bg-cyan/10"
                 asChild
               >
-                <a href="tel:+34618762122">
+                <a href="tel:+34608294503">
                   <Phone className="w-4 h-4 mr-2" />
                   Llamar ahora
                 </a>
@@ -125,7 +125,7 @@ const Navigation = () => {
                 asChild
               >
                 <a
-                  href="https://wa.me/34618762122"
+                  href="https://wa.me/34608294503"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

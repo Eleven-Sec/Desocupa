@@ -63,7 +63,7 @@ const Hero = () => {
               asChild
             >
               <a
-                href="https://wa.me/34618762122"
+                href="https://wa.me/34608294503"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -77,7 +77,7 @@ const Hero = () => {
               className="border-2 border-cyan/60 text-cyan hover:bg-cyan/10 hover:border-cyan text-base font-bold px-10 py-7 rounded-xl backdrop-blur-sm transition-all hover:-translate-y-0.5"
               asChild
             >
-              <a href="tel:+34618762122">
+              <a href="tel:+34608294503">
                 <Phone className="w-5 h-5 mr-2" />
                 Llamar ahora
               </a>

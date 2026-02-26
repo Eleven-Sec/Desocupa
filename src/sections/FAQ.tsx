@@ -131,7 +131,7 @@ const FAQ = () => {
             asChild
           >
             <a
-              href="https://wa.me/34618762122"
+              href="https://wa.me/34608294503"
               target="_blank"
               rel="noopener noreferrer"
             >
