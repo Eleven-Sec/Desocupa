@@ -26,9 +26,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-1">
             <a href="#inicio" className="inline-block mb-5">
-              <span className="font-orbitron text-3xl font-bold text-white tracking-wider">
-                ELEVEN
-              </span>
+              <img src="/logo.png" alt="ELEVEN" className="h-12 w-auto object-contain" />
             </a>
             <p className="text-gray-400 text-sm mb-6 leading-relaxed">
               Especialistas en desocupación legal y recuperación de inmuebles. Cobertura nacional 24/7.

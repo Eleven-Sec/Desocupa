@@ -34,9 +34,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-[70px]">
           {/* Logo */}
           <a href="#inicio" className="flex items-center gap-2">
-            <span className="font-orbitron text-2xl font-bold text-white tracking-wider">
-              ELEVEN
-            </span>
+            <img src="/logo.png" alt="ELEVEN" className="h-10 w-auto object-contain" />
           </a>
 
           {/* Desktop Navigation */}
