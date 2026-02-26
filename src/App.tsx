@@ -8,6 +8,7 @@ import Precios from './sections/Precios';
 import Testimonios from './sections/Testimonios';
 import Cobertura from './sections/Cobertura';
 import FAQ from './sections/FAQ';
+import PromoSeguridad from './sections/PromoSeguridad';
 import CTAFinal from './sections/CTAFinal';
 import Footer from './sections/Footer';
 
@@ -22,6 +23,7 @@ function App() {
         <Services />
         <PackPrevencion />
         <Precios />
+        <PromoSeguridad />
         <Testimonios />
         <Cobertura />
         <FAQ />
