@@ -31,10 +31,10 @@ const Navigation = () => {
         }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-[70px]">
+        <div className="flex items-center justify-between h-[90px]">
           {/* Logo */}
           <a href="#inicio" className="flex items-center gap-2">
-            <img src="/logo.png" alt="ELEVEN" className="h-10 w-auto object-contain" />
+            <img src="/logo.png" alt="ELEVEN" className="h-20 w-auto object-contain" />
           </a>
 
           {/* Desktop Navigation */}
