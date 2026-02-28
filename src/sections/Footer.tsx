@@ -26,7 +26,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-1">
             <a href="#inicio" className="inline-block mb-5">
-              <img src="/logo.png" alt="ELEVEN" className="h-40 w-auto object-contain" />
+              <img src="/logo.png" alt="ELEVEN" className="h-[40px] md:h-[50px] w-auto object-contain" />
             </a>
             <p className="text-gray-400 text-sm mb-6 leading-relaxed">
               Especialistas en desocupación legal y recuperación de inmuebles. Cobertura nacional 24/7.
