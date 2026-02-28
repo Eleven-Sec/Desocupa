@@ -31,11 +31,11 @@ const PromoSeguridad = () => {
 
                             <div className="space-y-6">
                                 <h2 className="text-4xl lg:text-5xl font-bold font-orbitron text-white leading-tight uppercase tracking-tight">
-                                    SEGURIDAD <span className="text-cyan drop-shadow-glow">PRIVADA</span> <br />
-                                    ESPECIALIZADA
+                                    VISITA <span className="text-cyan drop-shadow-glow">ELEVEN</span> <br />
+                                    SEGURIDAD
                                 </h2>
                                 <p className="text-gray-400 text-lg leading-relaxed max-w-xl">
-                                    Complementamos nuestra eficacia en desocupación con soluciones integrales de blindaje. Vigilancia física, escoltas de élite y protección de activos bajo los estándares de <span className="text-white font-semibold">Eleven Seguridad</span>.
+                                    Te invitamos a conocer <span className="text-white font-semibold">Eleven Seguridad</span>. Visita nuestra página web oficial para descubrir todas nuestras soluciones integrales en materia de seguridad, protección y vigilancia para tu tranquilidad.
                                 </p>
                             </div>
 
@@ -59,7 +59,7 @@ const PromoSeguridad = () => {
                                 <div className="flex items-center gap-3 pl-2 opacity-60">
                                     <div className="w-8 h-px bg-cyan/40" />
                                     <p className="text-sm text-gray-400 font-medium italic">
-                                        Explora todos nuestros servicios de protección privada
+                                        Descubre todos nuestros servicios en elevenseguridad.com
                                     </p>
                                 </div>
                             </div>
